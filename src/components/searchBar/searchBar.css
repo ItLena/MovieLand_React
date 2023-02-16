@@ -1,0 +1,19 @@
+.searchBar{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px ;
+    padding: 1%;
+}
+.searchBar input{
+    border: none;
+    background-color: transparent;
+    width: 80%;
+    color:  whitesmoke;  
+    outline: none;
+}
+.material-symbols-outlined{
+    color: #413f3f;
+    cursor: pointer;
+}
